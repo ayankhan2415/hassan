@@ -48,7 +48,7 @@ const Hero = () => {
             </div>
             <div className="flex flex-col">
               <h1 className={`heroHeadText text-white`}>
-                Hi, I'm <span className="text-[#915EFF]">Hassan</span>
+                Hi, I'm <span className="text-[#915EFF]">Hassan Muawiya</span>
               </h1>
               <p className={`heroSubText mt-2 text-white-100`}>
                 I'm a &nbsp;
